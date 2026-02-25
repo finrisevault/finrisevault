@@ -1,16 +1,26 @@
-## Hi there 👋
+# FinriseVault
 
-<!--
-**finrisevault/finrisevault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official source code for FinriseVault — A fintech platform helping users discover legitimate earning apps and CPA opportunities.
 
-Here are some ideas to get you started:
+## Project Structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/assets
+  /css
+  /js
+  /images
+
+/pages
+
+## Deployment
+
+Hosted on Netlify.
+Connected via GitHub continuous deployment.
+
+## Tracking & Analytics
+
+Google Tag Manager (GTM)
+Google Analytics 4 (GA4)
+
+---
+
+© FinriseVault
